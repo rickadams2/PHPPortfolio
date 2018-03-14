@@ -1,45 +1,13 @@
-# PHPPortfolio
+## PHP Portfolio
 
-     * Blog1 (LD)
-     * CMS1 (LD)
-     * Blog1 (CC)
-     * CMS1 (CC)
-     * URL shortner (CC) 
-     * Real-timeCommandlineChat (CC)
-     * PakjesPietBezorgApp 
-     * Cookiebanner (CC)
-     * UniqeHitCounter (CC)
-     * Protecting against spam
-     * Register&Login (CC) 
-     * OOPLoginRegisterSystem (CC)
-     * ShoppingCart (CC)   
-     * PHPAutenticationSystem (CC)
-     * GettingUserLocationWithPHP (CC)
-     * aPHP-POLL    (CC)
-     * PHPcontactForm  (CC)
-     
-      
-# PHP projects from scratch
-  * repo [https://github.com/rickadams2/PHPPortfolio/].
- 
-# PHP security 
-     * Cross site Request Forgery Protection (CC)         
-     * 
-     
-# PHP testing  
-     * Unit testing with PHPUnit (CC)       
-     *      
-    
- # PHP projects based on Zend, Laravel
-     * FB clone (CC)
-     * Snap clone  (CC)
-     * Stackoverflow clone (CC) 
-     * Pinterest clone (CC)
-     * TwitterBot (CC)
-     * Laravel TaskList (CC)
-     * AutenticationWithSlim3 (CC)
-     * PHP MVC Application (CC)
-     * PHP-OOP (CC)
-     * LaravelurlShortener (CC)
-     * EasyPHPValidation (CC)
-     * UploadingFilesWithPHP (CC)
+*  LD-01b-PHP-cms2 [LD-01-PHP-cms2](https://github.com/rickadams2/LD-01-PHP-cms2)
+* LD-02-php-CMS1 [LD-02-php-CMS1](https://github.com/rickadams2/LD-02-php-CMS1)
+* CC-03-php-Real-timeCommandlineChat [CC-03-php-Real-timeCommandlineChat](https://github.com/rickadams2/CC-03-php-Real-timeCommandlineChat)
+* CC-04-php-Cookiebanner [CC-04-php-Cookiebanner](https://github.com/rickadams2/CC-04-php-Cookiebanner)
+* CC-05-php-UniqeHitCounter [CC-05-php-UniqeHitCounter](https://github.com/rickadams2/CC-05-php-UniqeHitCounter)
+*  CC-06-php-ShoppingCart [CC-06-php-ShoppingCart](https://github.com/rickadams2/CC-06-php-ShoppingCart)*
+* cc-07-php-GettingUserLocationWithPHP [cc-07-php-GettingUserLocationWithPHP](https://github.com/rickadams2/cc-07-php-GettingUserLocationWithPHP)
+
+
+----------
+
